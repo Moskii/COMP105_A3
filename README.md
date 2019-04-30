@@ -1,3 +1,2 @@
-# COMP105_A3
-Haskell Third assignment
-## Assignment description
+# Maze Game
+Language used: Haskell
